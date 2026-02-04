@@ -1,7 +1,4 @@
-# ================================================================================
-# APPLICATION INS - SYSTÃME INTÃGRÃ DE SUIVI DES ACTIVITÃS
-# Organisation: Institut National de la Statistique (INS)
-# ================================================================================
+
 
 # Liste des packages nécessaires
 #packages <- c("shiny", "shinydashboard", "bs4Dash", "shinyWidgets", "DT", "shinyjs", "dplyr", "ggplot2", "plotly", "readr", "lubridate", "tidyr")
